@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_auth/pages/singup_page.dart';
 import 'package:flutter_auth/pages/welcome_page.dart';
 import 'package:flutter_auth/resources/colors.dart';
 
