@@ -4,6 +4,6 @@ Create Flutter Auth UI Only
 
 ## Getting Started
 
-![Home](home.png)
-![Login](login.png)
-![Sing Up](sign_up.png)
+![Home](home.png | width=150)
+![Login](login.png | width=150)
+![Sing Up](sign_up.png | width=150)
